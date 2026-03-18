@@ -1,3 +1,10 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
+# Scientific-Refutation-of-the-Distance-Induced-Love-Myth
+Scientific-Refutation-of-the-Distance-Induced-Love-Myth - 
+
+---
+
 Write by CHOIIZUKA.
 
 Creator:CHOIIZUKA Creator specs:(https://github.com/choiizuka/Choiizuka-Spec/blob/main/README.md)
